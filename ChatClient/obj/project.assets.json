@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\ChatServer\\ChatClient\\ChatClient.csproj",
+      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\ChatClient.csproj",
       "projectName": "ChatClient",
-      "projectPath": "C:\\Users\\User\\RiderProjects\\ChatServer\\ChatClient\\ChatClient.csproj",
+      "projectPath": "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\ChatClient.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\RiderProjects\\ChatServer\\ChatClient\\obj\\",
+      "outputPath": "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

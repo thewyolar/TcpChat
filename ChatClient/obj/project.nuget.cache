@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0wrowMclypl4oQlHCLj4RWHYL1x5m/lqNycHHbe3YCm/rkgw9FEpsWDAcgcR4wL9TTvBfPmWZ2IBDhprq1y+pw==",
+  "dgSpecHash": "rVZIn6d/ZydSmmkt87UqFaQGl6HYZNxGeiWkkn5jf3IrJXdWWhuP4F+H8Mo6pIba39TmtEeuxoSTB/HJbfNFvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\RiderProjects\\ChatServer\\ChatClient\\ChatClient.csproj",
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\ChatClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
