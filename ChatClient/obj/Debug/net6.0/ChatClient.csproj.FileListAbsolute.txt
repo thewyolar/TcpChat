@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\ChatServer\ChatClient\bin\Debug\net6.0\ChatClient.exe
+C:\Users\User\RiderProjects\ChatServer\ChatClient\bin\Debug\net6.0\ChatClient.deps.json
+C:\Users\User\RiderProjects\ChatServer\ChatClient\bin\Debug\net6.0\ChatClient.runtimeconfig.json
+C:\Users\User\RiderProjects\ChatServer\ChatClient\bin\Debug\net6.0\ChatClient.dll
+C:\Users\User\RiderProjects\ChatServer\ChatClient\bin\Debug\net6.0\ChatClient.pdb
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfo.cs
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.dll
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\refint\ChatClient.dll
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.pdb
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ChatClient.genruntimeconfig.cache
+C:\Users\User\RiderProjects\ChatServer\ChatClient\obj\Debug\net6.0\ref\ChatClient.dll
