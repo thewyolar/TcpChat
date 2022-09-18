@@ -38,6 +38,7 @@ public class Server
         {
             tcpListener = new TcpListener(IPAddress.Any, 8888);
             tcpListener.Start();
+            Console.WriteLine("--------------- Сервер ---------------");
             Console.WriteLine("Сервер запущен. Ожидание подключений...");
  
             while (true)

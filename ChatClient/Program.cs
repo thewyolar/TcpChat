@@ -65,6 +65,7 @@ static class Program
     
     static void Main(string[] args)
     {
+        Console.WriteLine("--------------- Клиент ---------------");
         Console.Write("Введите свое имя: ");
         username = Console.ReadLine();
         client = new TcpClient();
