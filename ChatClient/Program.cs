@@ -3,7 +3,7 @@ using System.Text;
  
 namespace ChatClient;
 
-static class Program
+internal class Program
 {
     static string username;
     private const string host = "127.0.0.1";
@@ -42,7 +42,7 @@ static class Program
                 while (stream.DataAvailable);
 
                 string message = builder.ToString();
-                Console.WriteLine(message);//вывод сообщения
+                Console.WriteLine(message);
             }
             catch
             {
@@ -55,10 +55,10 @@ static class Program
 
     static void Disconnect()
     {
-        if(stream!=null)
-            stream.Close();//отключение потока
-        if(client!=null)
-            client.Close();//отключение клиента
+        if (stream != null)
+            stream.Close(); //отключение потока
+        if (client != null)
+            client.Close(); //отключение клиента
         
         Environment.Exit(0); //завершение процесса
     }
