@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\ChatClient.csproj": {}
+    "E:\\Projects\\C#\\TcpChat\\ChatClient\\ChatClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\ChatClient.csproj": {
+    "E:\\Projects\\C#\\TcpChat\\ChatClient\\ChatClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\ChatClient.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\TcpChat\\ChatClient\\ChatClient.csproj",
         "projectName": "ChatClient",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\ChatClient.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\TcpChat\\ChatClient\\obj\\",
+        "projectPath": "E:\\Projects\\C#\\TcpChat\\ChatClient\\ChatClient.csproj",
+        "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\C#\\TcpChat\\ChatClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
